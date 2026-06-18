@@ -1,0 +1,13 @@
+name = "[Deprecated] Arthropocolypse"
+filename = "arthropocolypse-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c43b2c1e8a9fa11d139a202e37054a01db8fd677"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5397648
+project-id = 1018606

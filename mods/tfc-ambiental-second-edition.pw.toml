@@ -1,0 +1,13 @@
+name = "TFC Ambiental - Second edition"
+filename = "tfcambiental-1.20.1-3.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25634c21bb8ceff0ec53d24f38dde9c4a239c789"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7660699
+project-id = 940350

@@ -1,0 +1,13 @@
+name = "TaCZ Tweaks"
+filename = "tacz-tweaks-3.0.0-alpha.7+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2265943fd6572972546a5d4d8d3d5b7a86275e0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8209664
+project-id = 1193263

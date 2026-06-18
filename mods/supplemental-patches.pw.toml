@@ -1,0 +1,13 @@
+name = "Supplemental Patches"
+filename = "supplemental_patches-0.8.0-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6bc56e996cce7018459e622b10ab40b32a610106"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7765110
+project-id = 1222851

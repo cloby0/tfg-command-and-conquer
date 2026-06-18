@@ -1,0 +1,13 @@
+name = "TFC Workers"
+filename = "workerstfc-1.2.0 - 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "432692fa0a1531b7b1059d9d8b110f914f5bbf86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7613978
+project-id = 1250925

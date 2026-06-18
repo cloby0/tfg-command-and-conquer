@@ -1,0 +1,13 @@
+name = "Villager Recruits: Village Expansion"
+filename = "village_recruits-1.0.addons1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccc24bd39aa3d95ef0c8bb5d396cfc6fd1de473c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8202391
+project-id = 1517986
