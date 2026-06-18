@@ -1,0 +1,21 @@
+filename = 'aaa_particles-forge-1.20.1-2.2.1.jar'
+name = 'AAA Particles'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aaa_particles-forge-1.20.1-2.2.1.jar'
+
+[download]
+hash = '013c16170f932d406aaf96d85c6cd1c16152b94e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8170760
+project-id = 979809
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'EMBEDDED'

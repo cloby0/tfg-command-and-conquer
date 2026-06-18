@@ -1,0 +1,29 @@
+filename = 'tacz-tweaks-3.0.0-alpha.7+1.20.1-forge.jar'
+name = 'TaCZ Tweaks'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'TaCZ Tweaks 3.0.0-alpha.7+1.20.1-forge for TaCZ 1.1.8'
+
+[download]
+hash = '2265943fd6572972546a5d4d8d3d5b7a86275e0c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8209664
+project-id = 1193263
+
+[[x-prismlauncher-dependencies]]
+addonId = '667299'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1028108'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '351264'
+type = 'REQUIRED'

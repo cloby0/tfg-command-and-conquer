@@ -1,0 +1,25 @@
+filename = 'TFC_punishment_for_death-1.20.1-1.0.0.16.jar'
+name = 'TFC Punishment for Death'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'TFC_punishment_for_death-1.20.1-1.0.0.16.jar'
+
+[download]
+hash = 'e411976151d0f9d318839de2a3b5205af1d7b3bd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7603100
+project-id = 1258250
+
+[[x-prismlauncher-dependencies]]
+addonId = '302973'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '316582'
+type = 'OPTIONAL'

@@ -1,0 +1,18 @@
+filename = 'TFCWeldButton-1.20.1-1.1.jar'
+name = 'TFC Weld Button'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TFCWeldButton-1.20.1-1.1.jar'
+
+[download]
+hash = 'dda1ccb3f998e85de186c84162bf437f2e800031'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5949292
+project-id = 1093683

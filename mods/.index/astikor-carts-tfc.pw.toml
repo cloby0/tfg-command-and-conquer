@@ -1,0 +1,25 @@
+filename = 'TFCAstikorCarts-1.20.1-1.1.8.3.jar'
+name = 'Astikor Carts TFC'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TFCAstikorCarts-1.20.1-1.1.8.3'
+
+[download]
+hash = '1a64a638d83e7b33d1f4c589ac0bc3005ffec34f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5797400
+project-id = 844019
+
+[[x-prismlauncher-dependencies]]
+addonId = '302973'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '916493'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'struts-1.1.0+mc1.20.1.jar'
+name = 'Strut Your Stuff (Library)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Strut Your Stuff 1.1.0+mc1.20.1 Forge 1.20.1'
+
+[download]
+hash = '0fb4e23f58038ff0745c3f04663256b65a0f2a8c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7796581
+project-id = 1486746
+
+[[x-prismlauncher-dependencies]]
+addonId = '486392'
+type = 'OPTIONAL'

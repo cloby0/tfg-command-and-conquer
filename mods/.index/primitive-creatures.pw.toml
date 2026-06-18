@@ -1,0 +1,21 @@
+filename = 'primitive_creatures_2.7forge1.20.1.jar'
+name = 'Primitive creatures'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'primitive_creatures_2.7forge1.20.1.jar'
+
+[download]
+hash = 'f2fb38516941ac4193282af35bc2182ca98b17f5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7287434
+project-id = 1218288
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

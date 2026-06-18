@@ -1,0 +1,25 @@
+filename = 'gtceuterminal-5.6.2.jar'
+name = 'Gregtech Terminals'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'GTCEu Terminals 5.6.2'
+
+[download]
+hash = '65e66a64d5c88a305da46787e9520863cd5a55d5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8130132
+project-id = 1423461
+
+[[x-prismlauncher-dependencies]]
+addonId = '890405'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'OPTIONAL'

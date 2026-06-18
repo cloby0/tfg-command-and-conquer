@@ -1,0 +1,18 @@
+filename = 'BetterPingDisplay-1.20.1-1.1.jar'
+name = 'Better Ping Display'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'BetterPingDisplay-1.20.1-1.1.jar'
+
+[download]
+hash = '6347a5bff9405c59ec7d428e5e24115f5b17a90b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4594106
+project-id = 292038

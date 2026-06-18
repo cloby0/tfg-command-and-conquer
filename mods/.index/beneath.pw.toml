@@ -1,0 +1,21 @@
+filename = 'beneath-1.20.1-1.0.6.jar'
+name = 'Beneath'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Beneath 1.20.1-1.0.6'
+
+[download]
+hash = 'fc9208fa33d9f6868ab123dc0a73049fe3805201'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7400831
+project-id = 1113980
+
+[[x-prismlauncher-dependencies]]
+addonId = '302973'
+type = 'REQUIRED'

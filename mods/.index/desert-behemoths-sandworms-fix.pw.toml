@@ -1,0 +1,33 @@
+filename = 'sandworm_mod-1.2.0.jar'
+name = 'Desert Behemoths Sandworms - Fix'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'sandworm_mod-1.2.0.jar'
+
+[download]
+hash = 'aead13ba60e0137eabbba8c05c42a50107977be9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7840625
+project-id = 1496185
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '979809'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '616457'
+type = 'REQUIRED'

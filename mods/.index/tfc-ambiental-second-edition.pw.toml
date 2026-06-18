@@ -1,0 +1,18 @@
+filename = 'tfcambiental-1.20.1-3.5.0.jar'
+name = 'TFC Ambiental - Second edition'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'tfcambiental-1.20.1-3.5.0.jar'
+
+[download]
+hash = '25634c21bb8ceff0ec53d24f38dde9c4a239c789'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7660699
+project-id = 940350

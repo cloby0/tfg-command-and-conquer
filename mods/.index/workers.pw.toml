@@ -1,0 +1,21 @@
+filename = 'workers-1.20.1-2.0.1.jar'
+name = 'Villager Workers 2'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Villager Workers 2.0.1 [Forge - 1.20.1]'
+
+[download]
+hash = 'fe9d014ed6d99d4a562b55180700139b7b5ff1ba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8168381
+project-id = 567450
+
+[[x-prismlauncher-dependencies]]
+addonId = '523860'
+type = 'REQUIRED'

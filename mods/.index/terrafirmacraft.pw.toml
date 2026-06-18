@@ -1,0 +1,25 @@
+filename = 'TerraFirmaCraft-Forge-1.20.1-3.2.22.jar'
+name = 'TerraFirmaCraft'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TerraFirmaCraft 1.20.1-3.2.22'
+
+[download]
+hash = 'b8d549900ac215a4eb52033208be2362c9ad96d9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8063607
+project-id = 302973
+
+[[x-prismlauncher-dependencies]]
+addonId = '306770'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'

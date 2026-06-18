@@ -1,0 +1,29 @@
+filename = 'applied_ammo_box-1.2.2.jar'
+name = '[TaCZ] Applied Ammo Box'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'applied_ammo_box-1.2.2.jar'
+
+[download]
+hash = 'be91907bdc76d1f622589f95b4fbf249b1c31eec'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7949992
+project-id = 1338332
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1028108'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1339813'
+type = 'OPTIONAL'

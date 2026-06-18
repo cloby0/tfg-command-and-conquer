@@ -1,0 +1,29 @@
+filename = 'TerraFirmaGreg-Core-Modern-0.9.11.jar'
+name = 'TerraFirmaGreg-Core'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TerraFirmaGreg-Core-Modern-0.9.11'
+
+[download]
+hash = 'a915f52e80d4907c07965fdc9dbfcb41ad605eae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8221321
+project-id = 513402
+
+[[x-prismlauncher-dependencies]]
+addonId = '557242'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '302973'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '890405'
+type = 'OPTIONAL'
